@@ -1,1 +1,1 @@
-Alunos: Sergio Eduardo, Sergio Agostinho, Jailson Alves
+Aluno: Jailson Alves
